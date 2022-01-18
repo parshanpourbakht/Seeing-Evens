@@ -1,5 +1,3 @@
-# Seeing-Evens
-#
 # Seeing Evens can be played as a single player game or two players where the user plays against an 
 # AI. The game gives the option to the user to play several games, possibly playing each game in a different style, 
 # and think away at cracking this enigma! The goal for the user is to strategically insert numbers into a grid in order
